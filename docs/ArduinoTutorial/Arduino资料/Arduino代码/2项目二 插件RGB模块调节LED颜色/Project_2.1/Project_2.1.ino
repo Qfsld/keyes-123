@@ -23,7 +23,7 @@ void loop()
   digitalWrite(bluePin, LOW);
   delay(1000);
   //蓝色
-  digitalWrite(9, LOW);
+  digitalWrite(redPin, LOW);
   digitalWrite(greenPin, LOW);
   digitalWrite(bluePin, HIGH);
   delay(1000);
